@@ -1,5 +1,5 @@
 _repo: The-Albert-N-Yanza-Great-Basin-of-the-Nile-And-Explorations-of-the-Nile-Sources_3668
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Sudan'
 - !lcc 'DT'
 - !lcsh 'Nile River'
+- GITenberg
 title: The Albert N'Yanza, Great Basin of the Nile, And Explorations of the Nile Sources
 url: http://www.gutenberg.org/ebooks/3668
